@@ -1,0 +1,23 @@
+/*my first css */
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(199, 199, 140);
+    text-align:center;
+}
+img {
+    border: 10px solid green;
+}
+h1 {
+    border: 5px dotted blue;
+}
+a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+a:visited {
+    color: rgb(0, 50, 0);
+}
+a:hover {
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+}
